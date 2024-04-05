@@ -7,15 +7,17 @@ Decrypt text using the Caesar Cipher algorithm with the same or opposite shift v
 User-friendly interface allowing users to input messages and shift values interactively.
 Option to continue encrypting or decrypting more messages.
 
+
 # Usage
-  Clone this repository to your local machine:
+1. Clone this repository to your local machine:
     git clone https://github.com/Karthiksn246/PRODIGY_CS_01.git
 
-  Navigate to the directory:
+2. Navigate to the directory:
     cd PRODIGY_CS_01
 
-  Run the Python script:
+3. Run the Python script:
     python main.py
+
 
 Follow the on-screen prompts to choose between encryption or decryption, input your message, and specify the shift value.
 
