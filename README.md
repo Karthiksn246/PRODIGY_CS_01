@@ -9,7 +9,7 @@ This Python script provides a simple implementation of the Caesar Cipher algorit
     cd PRODIGY_CS_01
 
 3. Run the Python script:
-    python main.py
+    python main (1).py
 
 
 Follow the on-screen prompts to choose between encryption or decryption, input your message, and specify the shift value.
